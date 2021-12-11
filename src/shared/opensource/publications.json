@@ -2,33 +2,39 @@
   "data": [
     {
       "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
-      "name": "Artificial Intelligence Paper",
-      "createdAt": "2020-03-06T16:26:54Z",
-      "description": "Paper Written on Artificial Intelligence published in xyz "
+      "name": "D-Dining",
+      "createdAt": "2019-Feb - 2020-Sept",
+      "description": "The two folded system which helps to improve customer experience and restaurant management where the customers would be able to place the orders digitally from their table in the restaurant. This was developed for undergraduate final year project."
     },
     {
-      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzi=",
-      "name": "Artificial Intelligence Paper",
-      "createdAt": "2020-03-06T16:26:54Z",
-      "description": "Paper Written on Artificial Intelligence published in xyz "
+      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+      "name": "Crime Reporting System",
+      "createdAt": "2020-Feb",
+      "description": "An application to report crime by a citizen and alerting police by a SOS button in case of an emergency. An application for police to react to the crime reported by the citizen by knowing the location of the citizen through a SMS. This project was selected as top 10 projects in the college."
     },
     {
-      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNze=",
-      "name": "Artificial Intelligence Paper",
-      "createdAt": "2020-03-06T16:26:54Z",
-      "description": "Paper Written on Artificial Intelligence published in xyz "
+      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+      "name": "ConcessEasy",
+      "createdAt": "2020-Feb",
+      "description": "Web portal to apply for railway concession form directly with the railways authority with reference of respective college. Developed using HTML, CSS, JavaScript and Firebase. It was developed in DJ CSI hackathon and was selected for finals"
     },
     {
-      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzt=",
-      "name": "Artificial Intelligence Paper",
-      "createdAt": "2020-03-06T16:26:54Z",
-      "description": "Paper Written on Artificial Intelligence published in xyz "
+      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+      "name": "PacknMove",
+      "createdAt": "2018-Aug - 2018-Nov",
+      "description": "Website by which user can request to shift domestic goods of a residence from one location to another. Developed using HTML ,PHP , CSS, JavaScript and MySQL."
     },
     {
-      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzb=",
-      "name": "Artificial Intelligence Paper",
-      "createdAt": "2020-03-06T16:26:54Z",
-      "description": "Paper Written on Artificial Intelligence published in xyz "
+      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+      "name": "Wishing Factory",
+      "createdAt": "2018-Sept - 2018-Nov",
+      "description": "Developed a website which aims to fulfil needs of underprivileged children. Developed using JavaScript, PHP, CSS, HTML and MySQL."
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+      "name": "Smart City",
+      "createdAt": "2018-March - 2018-March",
+      "description": "Android application developed to prevent street hawkers from opening their business on footpath to keep the footpath clean and free for public use. The app also had. the feature of assigning slots to those hawkers on locations verified by the government. This app was made in NMIMS hackathon."
     }
   ]
 }

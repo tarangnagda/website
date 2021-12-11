@@ -11,7 +11,7 @@ import "./ContactComponent.css";
 import { greeting, contactPageData } from "../../portfolio.js";
 
 const ContactData = contactPageData.contactSection;
-const blogSection = contactPageData.blogSection;
+//const blogSection = contactPageData.blogSection;
 const addressSection = contactPageData.addressSection;
 const phoneSection = contactPageData.phoneSection;
 
@@ -45,12 +45,12 @@ class Contact extends Component {
                 </p>
                 <SocialMedia theme={theme} />
                 <div className="resume-btn-div">
-                  <Button
+                  {/* <Button
                     text="See My Resume"
                     newTab={true}
                     href={greeting.resumeLink}
                     theme={theme}
-                  />
+                  /> */}
                 </div>
               </div>
             </div>
@@ -59,29 +59,29 @@ class Contact extends Component {
             <div className="blog-heading-div">
               <div className="blog-heading-text-div">
                 <h1 className="blog-heading-text" style={{ color: theme.text }}>
-                  {blogSection["title"]}
+                  {/* // {blogSection["title"]} */}
                 </h1>
                 <p
                   className="blog-header-detail-text subTitle"
                   style={{ color: theme.secondaryText }}
                 >
-                  {blogSection["subtitle"]}
+                  {/* //{blogSection["subtitle"]} */}
                 </p>
-                <div className="blogsite-btn-div">
+                {/* <div className="blogsite-btn-div">
                   <Button
                     text="Visit My Blogsite"
                     newTab={true}
-                    href={blogSection.link}
+                    // href={blogSection.link}
                     theme={theme}
                   />
-                </div>
+                </div> */}
               </div>
               <div className="blog-heading-img-div">
                 {/* <img
 											src={require(`../../assests/images/${blogSection["avatar_image_path"]}`)}
 											alt=""
 										/> */}
-                <BlogsImg theme={theme} />
+                {/* <BlogsImg theme={theme} /> */}
               </div>
             </div>
           </Fade>
@@ -99,13 +99,13 @@ class Contact extends Component {
                   className="address-heading-text"
                   style={{ color: theme.text }}
                 >
-                  {addressSection["title"]}
+                  {/* {addressSection["title"]} */}
                 </h1>
                 <p
                   className="contact-header-detail-text subTitle"
                   style={{ color: theme.secondaryText }}
                 >
-                  {addressSection["subtitle"]}
+                  {/* {addressSection["subtitle"]} */}
                 </p>
                 <h1
                   className="address-heading-text"
@@ -120,12 +120,12 @@ class Contact extends Component {
                   {phoneSection["subtitle"]}
                 </p>
                 <div className="address-btn-div">
-                  <Button
+                  {/* <Button
                     text="Visit on Google Maps"
                     newTab={true}
                     href={addressSection.location_map_link}
                     theme={theme}
-                  />
+                  /> */}
                 </div>
               </div>
             </div>

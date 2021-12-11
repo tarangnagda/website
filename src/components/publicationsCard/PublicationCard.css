@@ -29,7 +29,8 @@
 }
 
 .publication-description {
-  overflow: hidden;
+  overflow: visible;
+  height: 100px;
   text-align: left;
   display: -webkit-box;
   font-family: "Google Sans Regular";

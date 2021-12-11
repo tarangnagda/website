@@ -14,7 +14,7 @@ export default function GithubRepoCard({ repo, theme }) {
         <div
           className="publication-card-div"
           key={repo.id}
-          onClick={() => openRepoinNewTab(repo.url)}
+          // onClick={() => openRepoinNewTab('https://ijrar.org/papers/IJRAR2001887.pdf')}
           style={{ backgroundColor: theme.highlight }}
         >
           <div className="publication-name-div">
@@ -30,7 +30,7 @@ export default function GithubRepoCard({ repo, theme }) {
               className="publication-creation-date subTitle"
               style={{ color: theme.secondaryText }}
             >
-              Published on {repo.createdAt.split("T")[0]}
+              Project duration {repo.createdAt}
             </p>
           </div>
           {/* <div className="repo-stats">

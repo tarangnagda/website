@@ -2,8 +2,8 @@ import fetch from 'node-fetch';
 import fs from 'fs';
 
 const openSource = {
-  githubConvertedToken: "Your Github Token Here",
-  githubUserName: "Your Github Username Here",
+  githubConvertedToken: "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",
+  githubUserName: "tarangnagda",
 };
 
 const query_pr = {
@@ -255,6 +255,7 @@ const languages_icons = {
   PHP: "logos-php",
   Dockerfile: "simple-icons:docker",
   Rust: "logos-rust",
+  AWS: "logos-typescript"
 };
 
 fetch(baseUrl, {
